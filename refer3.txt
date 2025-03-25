@@ -1,0 +1,3 @@
+.git ignore -- test data/class complies files,log files,no need to be version controlled,user credentials,sensitive info
+git restore -- helps in unstage of files from staging area
+reset and revert -- undo changes from git repository 
