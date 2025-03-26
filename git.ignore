@@ -1,0 +1,4 @@
+*.log
+*.php
+/dir
+*.class
