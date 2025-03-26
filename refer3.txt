@@ -1,3 +1,7 @@
 .git ignore -- test data/class complies files,log files,no need to be version controlled,user credentials,sensitive info
 git restore -- helps in unstage of files from staging area
 reset and revert -- undo changes from git repository 
+reset soft -- changes pointer from currrent one to previous one or selected one and and current pointer from commit to staging area 
+                without harming the logs
+reset hard -- dont use without caution
+
